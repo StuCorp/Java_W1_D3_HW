@@ -4,3 +4,4 @@ public interface Destroyable {
     void die();
     void attack(Kaiju kaiju);
 }
+
