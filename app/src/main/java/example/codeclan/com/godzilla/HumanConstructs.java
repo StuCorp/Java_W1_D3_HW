@@ -6,7 +6,7 @@ public abstract class HumanConstructs implements Destroyable{
 
 
 
-    public int healthValue;
+    private int healthValue;
 
 
     public HumanConstructs(String type, int healthValue) {
